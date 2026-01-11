@@ -6,12 +6,3 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
-```
-
-**.gitignore**
-```
-node_modules
-.next
-.DS_Store
-*.log
-.env*.local
